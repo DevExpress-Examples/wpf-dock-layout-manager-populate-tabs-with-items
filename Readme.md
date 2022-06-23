@@ -4,9 +4,11 @@
 <!-- default badges end -->
 # WPF Dock Layout Manager - Populate Tabs with Items
 
-This example displays content in [DockLayoutManager](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager)'s tabs in several approaches.
+This example displays content in [DockLayoutManager](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager)'s tabs in different approaches.
 
-To do this, you can use either of the following containers:
+<img src="https://user-images.githubusercontent.com/12169834/175351620-63365ade-c0a0-4bd0-ac6c-0907dd5a3647.png" width=525px/>
+
+To do this, you can use any of the following containers:
 
 - A [LayoutGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutGroup) with [GroupBorderStyle](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutGroup.GroupBorderStyle) set to `Tabbed`
 - A [TabbedGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.TabbedGroup)
