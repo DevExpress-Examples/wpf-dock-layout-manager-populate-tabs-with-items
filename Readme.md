@@ -14,7 +14,7 @@ To do this, you can use any of the following containers:
 - A [TabbedGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.TabbedGroup)
 - A [DocumentGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup)
 
-A [DocumentGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup) allows you to display dynamic content. It works similar to the document area in the Visual Studio.
+A [DocumentGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup) allows you to display dynamic content. It works similarly to the document area in Visual Studio.
 
 ![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-display-items-in-tabs-t326792/15.1.3+/media/cdfa2c50-a7ba-11e5-80bf-00155d62480c.png)
 
