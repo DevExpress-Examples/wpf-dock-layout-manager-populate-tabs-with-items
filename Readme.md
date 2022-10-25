@@ -24,7 +24,7 @@ A [TabbedGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.TabbedGro
 
 ![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-display-items-in-tabs-t326792/15.1.3+/media/e2d07c56-a7ba-11e5-80bf-00155d62480c.png)
 
-A [LayoutGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutGroup) with the `Tabbed` style is created to display a static set of elements. It allows you to move tabs only in [customization mode](https://docs.devexpress.com/WPF/7222/controls-and-libraries/layout-management/dock-windows/layout-functionality/customization-mode).
+A [LayoutGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutGroup) with the `Tabbed` style is created to display a static set of elements. It allows you to move tabs only in [customization mode](https://docs.devexpress.com/WPF/7223/controls-and-libraries/layout-management/dock-windows/layout-items#customization-mode).
 
 <!-- default file list -->
 ## Files to Look At
@@ -34,4 +34,4 @@ A [LayoutGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutGro
 
 ## Documentation
 
-- [Customization Mode](https://docs.devexpress.com/WPF/7222/controls-and-libraries/layout-management/dock-windows/layout-functionality/customization-mode)
+- [Customization Mode](https://docs.devexpress.com/WPF/7223/controls-and-libraries/layout-management/dock-windows/layout-items#customization-mode)
